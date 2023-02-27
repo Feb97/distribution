@@ -1,3 +1,3 @@
-# distribution
+# Distribution
 
 Example plot normal distribution
